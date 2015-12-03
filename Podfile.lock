@@ -1,0 +1,27 @@
+PODS:
+  - Cartography (0.6.0)
+  - RxBlocking (2.0.0-beta.3):
+    - RxSwift (~> 2.0.0-beta)
+  - RxCocoa (2.0.0-beta.3):
+    - RxSwift (~> 2.0.0-beta)
+  - RxSwift (2.0.0-beta.3)
+  - SlackTextViewController (1.7.2)
+  - Starscream (1.0.2)
+
+DEPENDENCIES:
+  - Cartography
+  - RxBlocking (~> 2.0.0-beta.3)
+  - RxCocoa (~> 2.0.0-beta.3)
+  - RxSwift (~> 2.0.0-beta.3)
+  - SlackTextViewController
+  - Starscream
+
+SPEC CHECKSUMS:
+  Cartography: 70af183a248547694a8cfaa6b989cb7e04589985
+  RxBlocking: 331f8bdedf77198f8ff1a37f09c492f1f4f631e5
+  RxCocoa: 1472006304b296d03c847f78b21384523cc4902e
+  RxSwift: 19fbe885b404d1d36d42ac8535134739a9b42952
+  SlackTextViewController: 1f4e8f68c156ef93de73fd422db2b8d5d5b0f4e7
+  Starscream: 40e2c4c1c770d811f24116b8b7dbeb4542c56767
+
+COCOAPODS: 0.39.0
