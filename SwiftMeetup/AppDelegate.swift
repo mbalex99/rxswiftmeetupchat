@@ -11,7 +11,7 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    static let socketEndpoint = "ws://chatsocketserver.herokuapp.com/"
+    static let socketEndpoint = "wss://chatsocketserver.herokuapp.com/"
     
     var window: UIWindow?
 

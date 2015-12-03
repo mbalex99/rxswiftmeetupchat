@@ -7,6 +7,7 @@ PODS:
   - RxSwift (2.0.0-beta.3)
   - SlackTextViewController (1.7.2)
   - Starscream (1.0.2)
+  - SwiftyJSON (2.3.1)
 
 DEPENDENCIES:
   - Cartography
@@ -15,6 +16,7 @@ DEPENDENCIES:
   - RxSwift (~> 2.0.0-beta.3)
   - SlackTextViewController
   - Starscream
+  - SwiftyJSON
 
 SPEC CHECKSUMS:
   Cartography: 70af183a248547694a8cfaa6b989cb7e04589985
@@ -23,5 +25,6 @@ SPEC CHECKSUMS:
   RxSwift: 19fbe885b404d1d36d42ac8535134739a9b42952
   SlackTextViewController: 1f4e8f68c156ef93de73fd422db2b8d5d5b0f4e7
   Starscream: 40e2c4c1c770d811f24116b8b7dbeb4542c56767
+  SwiftyJSON: 592b53bee5ef3dd9b3bebc6b9cb7ee35426ae8c3
 
 COCOAPODS: 0.39.0

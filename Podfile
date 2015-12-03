@@ -11,6 +11,6 @@ pod 'RxBlocking', '~> 2.0.0-beta.3'
 pod 'SlackTextViewController'
 pod 'Starscream'
 pod 'Cartography'
-
+pod 'SwiftyJSON'
 end
 

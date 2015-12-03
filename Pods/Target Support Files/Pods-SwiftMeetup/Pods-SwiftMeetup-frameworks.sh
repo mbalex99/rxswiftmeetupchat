@@ -90,6 +90,7 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-SwiftMeetup/RxSwift.framework"
   install_framework "Pods-SwiftMeetup/SlackTextViewController.framework"
   install_framework "Pods-SwiftMeetup/Starscream.framework"
+  install_framework "Pods-SwiftMeetup/SwiftyJSON.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-SwiftMeetup/Cartography.framework"
@@ -98,4 +99,5 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-SwiftMeetup/RxSwift.framework"
   install_framework "Pods-SwiftMeetup/SlackTextViewController.framework"
   install_framework "Pods-SwiftMeetup/Starscream.framework"
+  install_framework "Pods-SwiftMeetup/SwiftyJSON.framework"
 fi
